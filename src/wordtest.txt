@@ -1,0 +1,6 @@
+కుక్క<n><nt><pl><nom>
+ఆవు<n><nt><pl><nom>
+పేరు<n><nt><pl><nom>
+చెట్టు<n><nt><pl><nom>
+పెట్టె<n><nt><pl><nom>
+కొడుకు<n><m><pl><nom>
