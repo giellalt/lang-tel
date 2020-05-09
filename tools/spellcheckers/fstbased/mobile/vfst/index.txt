@@ -1,7 +1,0 @@
-Voikko-Dictionary-Format: 5
-Language: te-x-svfst
-Description: Telugu dictionary for VFST backend
-Morphology-Backend: null
-Speller-Backend: vfst
-Suggestion-Backend: vfst
-Grammar-Backend: null
