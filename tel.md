@@ -1,4 +1,11 @@
 
+# Symbol affixes
+
+
+
+
+
+
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Telugu LANGUAGE.
 
 
@@ -28,6 +35,60 @@ The parts-of-speech are:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
