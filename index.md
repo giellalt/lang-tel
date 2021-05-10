@@ -1,7 +1,7 @@
 # Telugu documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/lang-tel)](https://raw.githubusercontent.com/giellalt/lang-tel/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-tel)](https://raw.githubusercontent.com/giellalt/lang-tel/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tel)](https://github.com/giellalt/lang-tel/issues)
 [![Build status](https://github.com/giellalt/lang-tel/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tel/actions)
 
