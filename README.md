@@ -3,7 +3,7 @@ The Telugu morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tel)](https://github.com/giellalt/lang-tel/issues)
 [![Build Status](https://github.com/giellalt/lang-tel/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tel/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-tel)](https://raw.githubusercontent.com/giellalt/lang-tel/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-tel)](https://github.com/giellalt/lang-tel/blob/main/LICENSE)
 
 This repository contains finite state source files for the Telugu language,
 for building morphological analysers, proofing tools
