@@ -610,7 +610,7 @@ These were the set types.
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Telugu LANGUAGE.
 
 
- # Definitions for Multichar_Symbols
+# Definitions for Multichar_Symbols
 
 ## Analysis symbols
 The morphological analyses of wordforms for the Telugu
@@ -622,7 +622,7 @@ The parts-of-speech are:
 
 
 
- * +Symbol = independent symbols in the text stream, like £, €, ©
+* +Symbol = independent symbols in the text stream, like £, €, ©
 
 
 
@@ -654,12 +654,12 @@ for text-to-speech systems.
 
 For example:
 
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
+* s.:syntynyt # ;  
+* os.:omaa% sukua # ;  
+* v.:vuosi # ;  
+* v.:vuonna # ;  
+* esim.:esimerkki # ; 
+* esim.:esimerkiksi # ; 
 
 
 * * *

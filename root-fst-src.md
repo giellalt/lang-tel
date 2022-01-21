@@ -2,7 +2,7 @@
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Telugu LANGUAGE.
 
 
- # Definitions for Multichar_Symbols
+# Definitions for Multichar_Symbols
 
 ## Analysis symbols
 The morphological analyses of wordforms for the Telugu
@@ -14,7 +14,7 @@ The parts-of-speech are:
 
 
 
- * +Symbol = independent symbols in the text stream, like £, €, ©
+* +Symbol = independent symbols in the text stream, like £, €, ©
 
 
 
