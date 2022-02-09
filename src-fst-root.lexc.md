@@ -1,7 +1,6 @@
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Telugu LANGUAGE.
 
-
 # Definitions for Multichar_Symbols
 
 ## Analysis symbols
@@ -11,23 +10,11 @@ language are presented in this system in terms of the following symbols.
 
 The parts-of-speech are:
 
-
-
-
 * +Symbol = independent symbols in the text stream, like £, €, ©
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-tel/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-tel/blob/main/src/fst/root.lexc)</small>
+
+---
+
