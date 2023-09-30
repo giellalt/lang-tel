@@ -2,7 +2,7 @@ The Telugu morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tel)](https://github.com/giellalt/lang-tel/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-tel/main/badge.svg)](https://github.com/giellalt/lang-tel/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-tel/main/badge.svg)](https://github.com/giellalt/lang-tel/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-tel)](https://github.com/giellalt/lang-tel/blob/main/LICENSE)
 [![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-tel?platform=desktop&channel=nightly)
 [![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-tel?platform=mbile&channel=nightly)
