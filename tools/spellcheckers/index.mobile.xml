@@ -2,7 +2,7 @@
 <hfstspeller dtdversion="1.0" hfstversion="3">
   <info>
     <locale>te</locale>
-    <title>Giellatekno/Divvun/UiT fst-based speller for Telugu</title>
+    <title>Telugu</title>
     <description>This is an fst-based speller for Telugu. It is based
     on the normative subset of the morphological analyser for Telugu.
     The source code can be found at:
