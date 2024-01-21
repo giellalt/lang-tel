@@ -14,7 +14,7 @@ The parts-of-speech are:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-tel/blob/main/src/fst/root.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-tel/blob/main/src/fst/morphology/root.lexc)</small>
 
 ---
 
