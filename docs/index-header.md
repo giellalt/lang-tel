@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-tel)](https://github.com/giellalt/lang-tel/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tel)](https://github.com/giellalt/lang-tel/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-tel?label=CI)](https://builds.giellalt.org/pipelines/lang-tel/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Telugu language model**. 
 
