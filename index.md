@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-tel%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-tel)](https://github.com/giellalt/lang-tel/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tel)](https://github.com/giellalt/lang-tel/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-tel/main/badge.svg)](https://github.com/giellalt/lang-tel/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-tel?label=CI)](https://builds.giellalt.org/pipelines/lang-tel/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/telu1262)
 
 This page documents the work on the **Telugu language model**. 
 
